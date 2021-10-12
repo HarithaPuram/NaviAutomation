@@ -1,0 +1,217 @@
+14:30:30.311 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+14:30:31.293 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Products and actualProductLabel - Products
+12:19:44.146 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+12:19:44.175 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+12:19:45.516 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Products and actualProductLabel - Products
+22:17:53.098 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+22:17:53.119 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+06:37:21.310 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+06:37:21.356 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+06:53:20.807 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+06:53:20.843 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+06:55:41.038 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+06:55:41.094 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+06:55:54.075 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+06:55:54.116 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+07:01:16.550 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+07:01:16.599 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+07:04:36.752 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+07:04:36.806 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+07:09:10.505 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+07:09:10.569 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+07:11:10.924 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+07:11:11.024 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+07:16:30.799 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+07:16:30.890 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+07:17:33.929 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+07:17:34.012 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+07:18:06.397 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+07:18:06.441 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+10:11:44.170 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+10:11:44.196 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+10:12:51.207 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+10:12:51.225 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+10:14:45.260 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+10:14:45.287 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+10:16:08.001 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+10:16:08.036 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+10:17:46.700 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+10:17:52.028 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+10:17:52.029 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+10:18:48.899 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+10:18:54.839 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+10:18:54.840 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:00:35.535 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:00:41.318 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:00:41.322 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:03:34.147 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:03:40.662 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:03:40.663 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:05:59.572 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:06:02.358 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:06:02.389 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:08:09.885 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:08:13.135 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:09:15.552 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:09:18.168 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:10:37.976 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:10:40.738 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:10:40.771 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:13:51.190 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:13:53.545 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:13:53.578 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:14:50.716 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:14:53.224 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:17:24.325 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:17:27.248 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:17:27.281 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:19:20.393 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:19:23.606 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:19:23.676 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:20:15.714 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:20:18.314 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:20:18.350 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:23:18.783 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:23:21.723 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:23:21.756 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:25:41.965 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:25:44.248 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:25:44.283 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:27:22.359 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:27:25.121 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:27:25.153 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:28:31.208 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:28:33.661 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:28:33.697 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:31:29.449 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:31:31.657 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:31:31.682 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:46:10.835 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:46:12.896 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:46:12.929 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:50:27.054 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:50:37.932 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:50:37.934 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:53:06.830 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:53:06.922 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:53:21.778 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:54:26.641 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:54:26.698 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:54:40.210 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Booking Hotel
+23:55:42.081 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:55:42.129 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+23:56:13.283 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:56:13.369 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+00:01:08.866 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+00:01:08.932 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+00:23:33.333 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+00:23:33.375 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+00:28:33.282 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+00:28:33.345 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+00:33:03.597 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+00:33:03.680 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+00:36:10.386 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+00:36:10.436 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+00:42:44.781 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+00:42:44.841 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+00:45:29.850 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+00:45:29.916 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+00:48:10.901 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+00:48:10.938 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+00:49:41.635 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+00:49:41.698 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+00:55:57.561 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+00:55:57.619 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+00:57:03.526 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+00:57:03.587 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+21:18:40.360 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+21:18:40.420 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+21:20:37.925 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+21:20:37.993 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+21:32:17.843 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+21:32:17.894 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+21:33:41.918 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+21:33:41.966 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+21:36:17.732 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+21:36:17.752 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+21:37:42.669 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+21:37:42.714 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+21:44:21.612 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+21:44:21.652 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+21:45:43.776 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+21:45:43.806 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+21:50:50.452 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+21:50:50.524 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+21:54:02.308 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+21:54:02.352 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+22:11:56.514 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+22:12:37.653 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+22:54:22.467 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+22:55:09.752 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+22:56:57.707 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+22:56:57.749 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+22:58:21.050 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+22:58:21.109 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+15:38:01.759 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+15:38:01.796 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+13:45:25.629 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+13:45:25.721 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+13:47:56.887 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+13:49:57.334 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+13:50:40.082 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+13:52:04.873 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+13:54:45.711 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+13:56:52.460 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:04:47.509 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:04:47.565 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:08:25.922 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:08:25.964 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:11:30.814 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:11:30.867 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:15:46.201 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:15:46.241 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:20:23.301 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:20:23.348 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:22:26.629 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:22:26.673 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:23:59.863 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:23:59.902 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:25:26.602 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:25:26.657 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:27:08.194 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:27:08.234 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:28:57.124 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:28:57.147 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:29:50.444 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:29:50.482 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:30:53.392 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:30:53.439 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:32:05.136 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:32:05.179 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:33:24.280 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:33:24.306 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:36:40.239 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:36:40.295 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:38:04.102 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:38:04.174 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:39:19.233 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:39:19.285 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:47:06.463 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:47:06.511 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:49:30.916 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:49:30.967 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:50:06.183 [main] INFO  com.artoftesting.pages.DemoLoginPage - HOtel Name? 1000-30000
+14:51:19.987 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:51:20.047 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:52:15.573 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:52:15.608 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:52:48.166 [main] INFO  com.artoftesting.pages.DemoLoginPage - HOtel NameFree Cancellation, Zero Payment Now
+(254)
+14:53:35.824 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:53:35.868 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:54:09.283 [main] INFO  com.artoftesting.pages.DemoLoginPage - HOtel NameRadisson Blu Plaza Mysore
+14:55:23.055 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:55:23.104 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:56:18.984 [main] INFO  com.artoftesting.test.DemoLoginTest - Verifying successful login.
+14:56:19.042 [main] INFO  com.artoftesting.pages.DemoLoginPage - Logging with username - testervedantu@gmail.com  and password - Tester12!@
+14:56:55.213 [main] INFO  com.artoftesting.pages.DemoLoginPage - HOtel NameRadisson Blu Plaza Mysore
